@@ -1,3 +1,9 @@
+/*
+ * Since i am not planning to master C in near future, 
+ * I will not go deeper in examples too much
+ * except the ones that are needed to learn fundementals. 
+ * Remember, implementations change but logic does not!
+ */
 #include <stdio.h>
 #include <stdlib.h>
 /*
