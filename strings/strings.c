@@ -161,7 +161,9 @@ int positionOfSubstr(char * s1, char * s2){
  * Concetanetion is just copying too. and pointers work as in an array.
  */
 
-
+/*
+ * Hence, i will jump to more sophisticated data structures as structures.
+ */
 int main(){
 	return 0;
 }
